@@ -1,5 +1,12 @@
 # OpenAI-MuseNet-Colab-Notebook
 
+***
+
+## UPDATE 02/09/2023: MuseNet API had been down for some time (possibly depreciated).
+## Looking for a (better) MuseNet alternative?!? Try [Los Angeles Music Composer](https://github.com/asigalov61/Los-Angeles-Music-Composer) :)
+
+***
+
 ## MuseNet API Colab Notebook for experiments and evaluations
 
 [![Open In Colab][colab-badge2]][colab-notebook2]
